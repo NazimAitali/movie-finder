@@ -35,7 +35,8 @@
   align-items: center;
   justify-content: center;
   width: 97%;
-  height: 92%;
+  height: 91%;
+  margin: 0px;
   padding: 1%;
   left: 1.5%;
   position: relative;
@@ -46,6 +47,7 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  margin-top: 0px;
 }
 .pagination ul {
   display: flex !important;
@@ -60,7 +62,8 @@
   align-items: center !important;
 }
 .pagination button {
-  background-color: #ffe400;
+  background-color: #ffe400 !important;
+  height: 100% !important;
 }
 .pagination button:hover {
   background-color: whitesmoke;
