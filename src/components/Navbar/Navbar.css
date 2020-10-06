@@ -118,12 +118,11 @@ button:hover {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: whitesmoke;
+  color: #ff652f ;
   transition: 0.5s ease-in;
 }
 .btn-menu a:hover {
-  color: #ff652f ;
-  font-size: 1.2em;
+  color: whitesmoke ;  
   transition: 0.5s ease-in;
 }
 .logo {
